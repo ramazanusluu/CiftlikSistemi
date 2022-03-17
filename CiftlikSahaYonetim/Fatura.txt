@@ -1,0 +1,14 @@
+Fatura Bilgileri
+Fatura NO : 1
+Ýþletme NO : TR001
+iþletme Adý : Ciftlik
+Ýþletme Adresi : Malatya
+Ýþletme Telefon NO : 05315653294
+Tahsilat NO : gelir1
+Tarih : 2022-03-03
+Türü : Hayvan Satýþý
+Fiyat : 20000
+KDV'li Fiyat : 3600
+Ýsim : Ramazan USLU
+TC NO / Vergi NO : 48655097846
+Adres : Hatay Antakya
